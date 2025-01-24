@@ -8,6 +8,7 @@ mysql:5.7
 pingcap/tidb:latest
 redis
 rabbitmq:3.12-management
+nacos/nacos-server:v2.1.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
