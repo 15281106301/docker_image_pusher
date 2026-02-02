@@ -9,7 +9,8 @@ pingcap/tidb:latest
 redis
 rabbitmq:3.12-management
 nacos/nacos-server:v2.1.2
-nacos/nacos-server:v3.0.0
+--nacos/nacos-server:v3.0.0
 eclipse-temurin:17-jdk-alpine
+mysql:8.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
