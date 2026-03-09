@@ -1,11 +1,11 @@
 nginx:latest
 #支持私库
-nacos/nacos-server:v2.2.3
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#nacos/nacos-server:v2.2.3
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 openjdk:8-jre
 mysql:5.7
 pingcap/tidb:latest
 redis
-rabbitmq:3.12-management
-nacos/nacos-server:v2.1.2
+#rabbitmq:3.12-management
+#nacos/nacos-server:v2.1.2
